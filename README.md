@@ -35,7 +35,8 @@ Sales → Target variable (daily sales)
 - Result → Best model: Linear Regression (lowest RMSE)
 
 ## 📸 Sample Outputs
-![Overall Sales trends](<img width="1341" height="717" alt="Total Sales" src="https://github.com/user-attachments/assets/e3aca10d-df02-4b0c-b695-5de56ec19e5a" />)
+### Overall Sales Trend
+<img width="1341" height="717" alt="Total Sales" src="https://github.com/user-attachments/assets/e3aca10d-df02-4b0c-b695-5de56ec19e5a" />
 
 ## 📊 Results & Insights
 - XG Boost outperformed other models in forecasting accuracy
