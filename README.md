@@ -43,6 +43,7 @@ Sales → Target variable (daily sales)
 - Model can assist in inventory optimization and demand planning
 
 ![Linear Regression Model](<img width="1128" height="687" alt="Linear Regression" src="https://github.com/user-attachments/assets/48d950a3-3bcb-40bf-ba2b-1b1dcf16acb5" />)
+
 ![XG Boost Model](<img width="1155" height="610" alt="XG Boost " src="https://github.com/user-attachments/assets/366cf690-d04e-4453-80a9-88776642bb23" />)
 
 ## 🚀 Future Enhancements
