@@ -55,8 +55,11 @@ Sales → Target variable (daily sales)
 - Deploy model with Streamlit / Flask for real-time predictions
 
 ## 📬 Contact
-![Linkdin Profile](www.linkedin.com/in/ankita-ahirrao7)
-![Email](ankitaahirrao6@gmail.com)
+#### Linkdin Profile
+(www.linkedin.com/in/ankita-ahirrao7)
+
+#### Email
+(ankitaahirrao6@gmail.com)
 
 
 
