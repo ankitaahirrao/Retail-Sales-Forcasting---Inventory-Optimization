@@ -58,8 +58,6 @@ Sales → Target variable (daily sales)
 #### Linkdin Profile
 (www.linkedin.com/in/ankita-ahirrao7)
 
-#### Email
-(ankitaahirrao6@gmail.com)
 
 
 
